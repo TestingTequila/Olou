@@ -1,0 +1,28 @@
+Variables: Variables are like boxes/jars/containers that can hold some values
+How to create variables:
+  1. when you the exact value that you want to store
+     dataType nameOfVariable=value;
+  2. when you don't know the exact value that you want to store
+
+  What are data types:
+  -->Primitive Data Types
+       a) We know in advance how much memory this will consume
+       b) We don't need objects to be able to use them
+       Ex: byte, short, int, long, float, double, char, boolean
+
+  -->Non-Primitive Data Types
+       a) We don't know in advance how much memory this will consume
+       b) We need objects to be able to use them
+       Ex: Array, Class, Strings........
+
+
+       Whenever we are given an integer number to store
+       1. Are you going to do some mathematical operation using the number
+           Yes ----> choose int as data type
+           No
+             Check in which data types range the number exists
+                if the number exists in all the data types
+                   pick the data type which takes least memory
+                else
+                   use the data type in which this number belongs to
+
