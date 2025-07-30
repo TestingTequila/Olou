@@ -1,0 +1,39 @@
+Statements: These are used to make decisions
+
+1. if else statement [To make single Decision]
+
+     if(condition)
+     {
+         this code will execute if condition is true
+     }
+     else
+     {
+         this code will execute if condition is false
+     }
+
+2. if else if statement [This is used to make multiple decisions]
+   if(condition1)
+   {
+     this code will execute if condition1 is true
+   }
+   else if(condition2)
+   {
+     this code will execute if condition2 is true
+   }
+   else if(condition3)
+   {
+     this code will execute if condition3 is true
+   }
+   .
+   .
+   .
+   else if(conditionN)
+   {
+        this code will execute if conditionN is true
+   }
+   else
+   {
+      This will execute if none of the above condition is true
+   }
+3. switch statement: This is also used to make multiple decisions but this is relatively faster that if else if statement
+
