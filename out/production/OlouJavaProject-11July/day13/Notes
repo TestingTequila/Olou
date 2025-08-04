@@ -3,3 +3,11 @@
 3. What is relationship b/w a class and an Object
 4. Syntax to create Object of A class
     NameOfTheClassWhoseCopyIWantToCreate nameThatYouWantTOGiveToTheCopyCreated=new NameOfTheClassWhoseCopyIWantToCreate();
+
+Automobile
+Automobile car = new Automobile();
+Automobile truck=new Automobile();
+
+LivingBeing
+LivingBeing human = new LivingBeing();
+LivingBeing animal = new LivingBeing();
