@@ -1,0 +1,17 @@
+Methods: Purpose why we hold/store/contain something is your method
+Methods are actions performed over variables.
+
+Make Tea:
+
+Tea Leaves
+Sugar
+Milk Powder
+Water
+Ginger Powder
+
+Syntax of a method:
+
+accessModifier[public/private/protected] returnType[void/somethingElse] methodName(can/t parameters)
+{
+   action over class variables
+}
