@@ -1,0 +1,24 @@
+1.
+
+accessModifier returnType methodName(can/t parameters)
+{
+   action over class variables
+}
+
+accessModifier: This just defines the accessibility of a method
+                 public: all classes can access it
+                 private: only the class holding method can access it
+
+Global/class level Variable: Variables which are inside the class and outside the method
+                             When we create global?
+                               -When you want your variable to be shared by multiple other methods
+                                of the same class
+
+Parameters: These are created within the () brackets of a method
+            When we create methods with parameters ?
+            When you don't want to share the value of a variable with multiple other methods, you pass it as parameters
+
+
+Local Variables: These are created within the {} brackets of a method
+                  while creating them, its mandatory to assign value to them
+                  When do we create local variables?
