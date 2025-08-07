@@ -1,0 +1,39 @@
+OOPs Concepts:
+
+1. Encapsulation
+    -Data Hiding
+
+
+2. Polymorphism
+    -method overloading
+    -method overriding
+
+3. Inheritance
+    -abstraction
+    -interface
+
+    ===================================================
+    Poly(many)+morphism(forms): Methods with same name that exists in many forms
+    In java, we can have 2 or more methods with the same name provided that their signature is different
+      how to make signature different
+       a) by changing the data types of the parameters
+       b) by changing the order of parameters
+       c) by changing the count of parameters
+
+       Method overloading says, in a class we can have two or more methods with the same name
+       provided their signature is different.
+             how to make signature different
+              a) by changing the data types of the parameters
+              b) by changing the order of parameters
+              c) by changing the count of parameters
+
+              Real Time Example of method overloading
+              search/login/payment
+
+              Can we overload main method: Yes
+              And on running class with overloaded main method, JVM will always call default main
+
+
+
+              Method overloading is also known as Compile Time Polymorphism
+              Method overloading happens in the same class only
