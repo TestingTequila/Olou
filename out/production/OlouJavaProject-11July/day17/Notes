@@ -27,5 +27,13 @@ OOPs Concepts:
               b) by changing the order of parameters
               c) by changing the count of parameters
 
+              Real Time Example of method overloading
+              search/login/payment
+
+              Can we overload main method: Yes
+              And on running class with overloaded main method, JVM will always call default main
+
+
+
               Method overloading is also known as Compile Time Polymorphism
               Method overloading happens in the same class only

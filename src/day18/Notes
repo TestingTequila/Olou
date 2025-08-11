@@ -1,0 +1,6 @@
+static keyword:
+An property VALUE, that remains same across the objects should be made static
+Anything that is static is not the part of the object.
+static variables and methods do not belong to object but belongs to the class
+i which they are created and hence cannot be called using object reference name
+rather we can call them using Class name itself.
