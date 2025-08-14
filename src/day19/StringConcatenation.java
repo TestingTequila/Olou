@@ -1,3 +1,5 @@
+package day19;
+
 public class StringConcatenation {
     public static void main(String[] args) {
         // Anything that we put in double quotes is a string

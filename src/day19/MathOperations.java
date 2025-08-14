@@ -1,3 +1,5 @@
+package day19;
+
 public class MathOperations {
     public static void main(String[] args) {
 

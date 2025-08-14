@@ -1,0 +1,7 @@
+Encapsulation
+Make the variables private
+set their value using setter method
+apply rules within those setter method
+access the value of private variables using getter method
+Advantage: Since variables are private so they cannot be accessed outside the
+           class and hence cant be misused...

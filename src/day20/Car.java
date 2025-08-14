@@ -1,4 +1,4 @@
-package day18;
+package day20;
 
 public class Car {
     String name; //non-static or instance variable

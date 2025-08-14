@@ -1,0 +1,15 @@
+Constructors:
+What are constructors //They are used to initialize an object, means we use constructors to assign meaningful
+                      // values to instance variables
+
+What Constructors do  //we use constructors to assign meaningful
+                      // values to instance variables
+
+What is the syntax of constructor
+      //A constructor will have the same name as the name of class to which it belongs
+      //A constructor will not have return Type including void
+
+What is Default Constructor : Constructor without parameter is your default constructor
+How we Call the constructors // The constructor is called automatically the moment we create an object of the class
+
+What is parametrized Constructor
